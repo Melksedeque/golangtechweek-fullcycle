@@ -1,1 +1,1 @@
-# golangtechweek-fullcycle
+# Go Tech Week - Full Cycle
